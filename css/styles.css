@@ -184,15 +184,15 @@ table {
 }
 
 .logo-1 {
-  background: url(/images/logo-1.jpg) no-repeat;
+  background: url(../images/logo-1.jpg) no-repeat;
 }
 
 .logo-2 {
-  background: url(/images/logo-2.jpg) no-repeat;
+  background: url(../images/logo-2.jpg) no-repeat;
 }
 
 .logo-3 {
-  background: url(/images/logo-3.jpg) no-repeat;
+  background: url(../images/logo-3.jpg) no-repeat;
 }
 
 @-webkit-keyframes sc1 {
